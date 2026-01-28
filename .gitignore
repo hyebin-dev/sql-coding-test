@@ -17,3 +17,4 @@ scratch/
 # local-only (do not commit)
 _private/
 
+.metadata/
